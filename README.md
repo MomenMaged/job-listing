@@ -1,5 +1,11 @@
 # Job listing
 
+Steps to run the Project
+
+1) npm install (First Time)
+2) npm run server
+3) npm start
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
